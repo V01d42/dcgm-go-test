@@ -2,8 +2,9 @@ module dcgm-go-test
 
 go 1.25.4
 
+require github.com/NVIDIA/go-dcgm v0.0.0-20251024204555-c48e27bf2bf0
+
 require (
-	github.com/NVIDIA/go-dcgm v0.0.0-20251024204555-c48e27bf2bf0 // indirect
 	github.com/bits-and-blooms/bitset v1.22.0 // indirect
 	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/pmezard/go-difflib v1.0.0 // indirect

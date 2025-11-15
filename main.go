@@ -33,3 +33,4 @@ func main() {
 		}
 		fmt.Printf("GPU %d: %+v\n", id, info)
 	}
+}
